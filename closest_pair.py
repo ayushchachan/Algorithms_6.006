@@ -13,9 +13,9 @@ def base_case(points):
     if len(points) == 3:
         p1, p2, p3 = points
         return min(squared_distance(p1, p2),
-                   squared_distance(p1, p3),
-                   squared_distance(p2, p3))
-    return None
+                squared_distance(p1, p3),
+                squared_distance(p2, p3))
+    raise Exception("invalid arguments")
 
 
 def closest_pair_in_strip(delta, strip):

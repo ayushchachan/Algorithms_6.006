@@ -1,5 +1,6 @@
 
-from closest_pair import N
+from importlib.machinery import SourcelessFileLoader
+from turtle import right
 
 
 class BST_Node:
@@ -61,29 +62,7 @@ class BST_Node:
             x.left, newNode.parent = newNode, x
         else:
             self.right, newNode.parent = newNode, self
-    
-    def subtree_delete(self):
-        if self.left == None:
-            y = self.parent
-            x = self.right
-            if y is not None:
-                if self == y.right:
-                    y.right = x
-                else:
-                    y.left = x
-            x.parent = y
-        elif self.right == None:
-            y = self.parent
-            x = self.left
-            if y is not None:
-                if self == y.right:
-                    y.right = x
-                else:
-                    y.left = x
-            x.parent = y
-        else:
-            z = self.predecessor()
-            
+
 
 
 class BinaryTree:
