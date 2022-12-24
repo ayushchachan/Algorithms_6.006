@@ -39,8 +39,48 @@ def countInversions(A, p=0, r=None):
 
     return a + b + count
 
+def nehul(a):
+    lookup = {}
 
-n = int(input())
-a = list(map(int, input().split()))
+    for ind, val in enumerate(a): 
+        lookup[val] = ind
+        
+    a = sorted(a)
+
+    res = 0
+    for ind, val in enumerate(a):
+        if lookup[val]> ind:
+            res += lookup[val]-  ind
+            
+    return res
+
+a = []
+b = []
+
+import random
+import time
+
+for i in range(1000000):
+    x = random.randint(-10000000000, 100000000000)
+    a.append(x)
+    b.append(x)
+    
+s1 = time.time()
+
+
 x = countInversions(a)
+
+f1 = time.time()
+
 print(x)
+print("time taken =", f1 - s1)
+
+s1 = time.time()
+
+
+x = nehul(a)
+
+f1 = time.time()
+
+print(x)
+print("time taken =", f1 - s1)
