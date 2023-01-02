@@ -2,243 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/codeInsightSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/dictionaries/lift.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/findbugs-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/inspectionProfiles/Algorithms__Part_I.xml.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.lift/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.lift/checkstyle-coursera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.lift/checkstyle-lift.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.lift/checkstyle-suppressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/.lift/spotbugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/Algorithms, Part I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/PuzzleChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-unsolvable1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-unsolvable2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle2x2-unsolvable3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-unsolvable.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-unsolvable1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle3x3-unsolvable2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle4x4-unsolvable.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8puzzle/puzzle50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeInsightSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lift.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-coursera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-lift.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-suppressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KdTreeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KdTreeVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NearestNeighborVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RangeSearchVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle100.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle1000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle10000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circle4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/horizontal8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input100K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input10K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input1M.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input200K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input20K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input400K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input40K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input800K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input80K.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vertical7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KdTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PointSET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Assignment 5_ Kd-Trees.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kd.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8puzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8puzzle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,17 +30,29 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
     <option name="SCHEME" value="Project" />
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.2.1/lib/src.zip!/java.base/java/lang/Double.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -279,7 +64,9 @@
     <option name="height" value="765" />
   </component>
   <component name="ProjectId" id="2BZwWqOJeDbrQGpNxQL7XU2irA8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <showLibraryContents PackagesPane="false" />
@@ -314,10 +101,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ac9991838/Documents/cs50/Algorithms_6.006/kdtree"
+    "last_opened_file_path": "/home/ac9991838/Documents/cs50/Algorithms_6.006/kdtree",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
@@ -328,6 +119,18 @@
       <option name="presentableId" value="Default" />
       <updated>1672038566446</updated>
       <workItem from="1672038567936" duration="10000" />
+      <workItem from="1672055370704" duration="896000" />
+      <workItem from="1672120559783" duration="675000" />
+      <workItem from="1672202869282" duration="1167000" />
+      <workItem from="1672222925326" duration="1317000" />
+      <workItem from="1672227914692" duration="1413000" />
+      <workItem from="1672239426027" duration="48000" />
+      <workItem from="1672399174716" duration="3082000" />
+      <workItem from="1672477008705" duration="251000" />
+      <workItem from="1672477283716" duration="9000" />
+      <workItem from="1672479878938" duration="142000" />
+      <workItem from="1672570013437" duration="5785000" />
+      <workItem from="1672639953895" duration="102000" />
     </task>
     <servers />
   </component>
@@ -380,5 +183,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
