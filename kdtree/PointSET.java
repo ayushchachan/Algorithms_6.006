@@ -100,10 +100,10 @@ public class PointSET {
         Point2D nearest = null;
 
         for (Point2D q : pointSet) {
-            
-            double dist_pq = p.distanceSquaredTo(q);
-            if (dist_pq < leastDistance) {
-                leastDistance = dist_pq;
+
+            double distPQ = p.distanceSquaredTo(q);
+            if (distPQ < leastDistance) {
+                leastDistance = distPQ;
                 nearest = q;
             }
 

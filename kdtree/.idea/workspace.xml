@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/KdTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PointSET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Assignment 5_ Kd-Trees.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8puzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../8puzzle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/KdTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTree$PointComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/KdTree$PointComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTree$PointIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/KdTree$PointIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/KdTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/KdTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KdTreeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/KdTreeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NearestNeighborVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/NearestNeighborVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NearestNeighborVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/NearestNeighborVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PointSET.class" beforeDir="false" afterPath="$PROJECT_DIR$/PointSET.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PointSET.java" beforeDir="false" afterPath="$PROJECT_DIR$/PointSET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RangeSearchVisualizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/RangeSearchVisualizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RangeSearchVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RangeSearchVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kd.zip" beforeDir="false" afterPath="$PROJECT_DIR$/kd.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,18 +106,31 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ac9991838/Documents/cs50/Algorithms_6.006/kdtree",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ac9991838/Documents/cs50/Algorithms_6.006/kdtree&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="NearestNeighbour" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="NearestNeighborVisualizer" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -131,6 +151,8 @@
       <workItem from="1672479878938" duration="142000" />
       <workItem from="1672570013437" duration="5785000" />
       <workItem from="1672639953895" duration="102000" />
+      <workItem from="1672650156860" duration="7511000" />
+      <workItem from="1672720460548" duration="5440000" />
     </task>
     <servers />
   </component>
