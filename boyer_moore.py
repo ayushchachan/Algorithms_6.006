@@ -31,7 +31,7 @@ def findPattern(T, P):
     return -1
 
 T = "abacaabadcabacabaabb"
-P = "abacab"
+P = "abacbab"
 
 z = findPattern(T, P)
 print(z)
